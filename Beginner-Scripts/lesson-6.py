@@ -20,7 +20,8 @@ while True:
         break
 print('Thank you!')
 
-# While loop with a continue statement to force the execution back to the start of the loop to reevaluate the loop's condition. This causes "spam is 3" to never show in the output
+# While loop with a continue statement to force the execution back to the start of the loop to reevaluate the loop's
+# condition. This causes "spam is 3" to never show in the output
 spam = 0
 while spam < 5:
     spam = spam + 1
